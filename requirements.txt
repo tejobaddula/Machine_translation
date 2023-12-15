@@ -1,0 +1,14 @@
+gensim==4.3.2
+matplotlib
+numpy==1.23.0
+pandas
+rouge-score==0.1.2
+sacrebleu==2.3.3
+sacremoses==0.1.1
+scikit-learn
+scipy==1.4.1
+seaborn==0.10.1
+sentencepiece==0.1.99
+torch==1.12.1
+tqdm==4.66.1
+transformers==4.36.1
